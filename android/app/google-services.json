@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971829953499",
+    "project_id": "whitedove-932e5",
+    "storage_bucket": "whitedove-932e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971829953499:android:845c9e21589de280be5dfe",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzYOpG-NfFyY9INeAj8xKu_BHQ3Qirn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
